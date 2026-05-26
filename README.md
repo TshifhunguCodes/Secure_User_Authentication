@@ -10,6 +10,14 @@ A full-stack **secure user authentication** web application built with **Flask**
 
 ---
 
+## 🎥 Live Demo
+
+[![Secure User Authentication Demo](https://img.youtube.com/vi/default/0.jpg)](https://www.linkedin.com/posts/tshifhungu-jonathan-matsheketsheke-859a32316_webdevelopment-fullstackdevelopment-python-ugcPost-7413596665703710720-otFL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFA-HUUBu4HD-Cfx9-gxZAaTwoDeWCLJGZItarget)
+
+Watch the full walkthrough of the Secure User Authentication System on LinkedIn — including user registration, login with validation, password hashing, session management, and the protected dashboard.
+
+---
+
 ## 📋 Overview
 
 This system provides a complete authentication workflow — user registration, login, protected dashboard, and logout — with strong security practices:
